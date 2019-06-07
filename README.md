@@ -1,4 +1,4 @@
-## Make your own Bitcoin-payable Twitter Bot with Lightning Charge!
+## Make your own Groestlcoin-payable Twitter Bot with Lightning Charge!
 
 ### Create a Wordpress site
 
@@ -13,7 +13,7 @@ The WooCommerce plugin is hosted in Wordpress.
 
 <img src="https://raw.githubusercontent.com/elaineo/lightningbot/master/docs/wp_plugins.png" width="400">
 
-Download the Lightning Payments plugin here: https://github.com/ElementsProject/woocommerce-gateway-lightning
+Download the Lightning Payments plugin here: https://github.com/Groestlcoin/woocommerce-gateway-lightning
 
 Follow the instructions on the Woocommerce-Gateway repo to add Lightning as a payment option on your WooCommerce site.
 
@@ -23,8 +23,8 @@ Follow the instructions on the Woocommerce-Gateway repo to add Lightning as a pa
 
 ### Get a Lightning node set up
 
-Set up bitcoind, c-lightning, and lightning-charge. 
-Instructions for all that stuff here: https://github.com/ElementsProject/lightning-charge#getting-started
+Set up groestlcoind, c-lightning, and lightning-charge. 
+Instructions for all that stuff here: https://github.com/groestlcoin/lightning-charge#getting-started
 
 ### Set up a Twitter bot
 
